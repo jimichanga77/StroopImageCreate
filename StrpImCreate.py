@@ -23,7 +23,7 @@ print(dirname)
 ### file_path = filedialog.askopenfilename()
 ##file_path = filedialog.askdirectory()
 
-width, height = 300, 300
+width, height = 100, 100
 
 directory = os.path.join(dirname+"/")
 PATH = os.path.join(dirname+"/converted")
@@ -54,7 +54,7 @@ with open(fileToOpen) as csv_file:
             im = Image.fromarray(img) #convert numpy array to image
             I1 = ImageDraw.Draw(im)
             # Custom font style and font size
-            myFont = ImageFont.truetype("arial.ttf", 65) # specifies font and font size for words
+            myFont = ImageFont.truetype("arial.ttf", int(width/4)) # specifies font and font size for words. Font size is reliant on width size now (e.g. width/4)
             # Add Text to an image, the first numbers are the location
             I1.text(((width)/2, (height)/2), word,font=myFont, fill=colour,anchor="mm", align='center')
             # Display edited image
