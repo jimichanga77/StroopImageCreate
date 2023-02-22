@@ -18,8 +18,8 @@ with open('StroopTrials.csv') as csv_file:
             print(f'Column names are {", ".join(row)}') # prints the column names for reference
             line_count += 1
         else:
-            word = {row[1]} # prints the word to the console
-            colour = {row[2]} # prints the colour to the console
+            word = row[1] # prints the word to the console
+            colour = row[2] # prints the colour to the console
             print(word)
             print(colour)
             #FOLLOWING CREATES THE IMAGE
@@ -30,7 +30,7 @@ with open('StroopTrials.csv') as csv_file:
             # Custom font style and font size
             myFont = ImageFont.truetype("arial.ttf", 65) # specifies font and font size for words
             # Add Text to an image, the first numbers are the location
-            I1.text((110, 110), word,font=myFont, fill=str(colour))
+            I1.text((110, 110), word,font=myFont, fill=colour)
             # Display edited image
             im.show()
             #im.save('REDgreen.jpg') # removed for now while checking
