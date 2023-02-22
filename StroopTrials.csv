@@ -1,0 +1,65 @@
+﻿Display,text,letterColor,corrAns,congruency
+Practise Trials,ccc,red,z,practice
+Practise Trials,ccc,green,x,practice
+Practise Trials,rrrrr,blue,n,practice
+Practise Trials,rrrrr,yellow,m,practice
+Practise Trials,pppp,red,z,practice
+Practise Trials,pppp,green,x,practice
+Practise Trials,ssssss,blue,n,practice
+Practise Trials,ssssss,yellow,m,practice
+Practise Trials,ccc,blue,n,practice
+Practise Trials,ccc,yellow,m,practice
+Practise Trials,rrrrr,red,z,practice
+Practise Trials,rrrrr,green,x,practice
+Practise Trials,pppp,blue,n,practice
+Practise Trials,pppp,yellow,m,practice
+Practise Trials,ssssss,red,z,practice
+Practise Trials,ssssss,green,x,practice
+Trials,pen,red,z,neutral
+Trials,pen,green,x,neutral
+Trials,pen,blue,n,neutral
+Trials,pen,yellow,m,neutral
+Trials,house,red,z,neutral
+Trials,house,green,x,neutral
+Trials,house,blue,n,neutral
+Trials,house,yellow,m,neutral
+Trials,shoe,red,z,neutral
+Trials,shoe,green,x,neutral
+Trials,shoe,blue,n,neutral
+Trials,shoe,yellow,m,neutral
+Trials,bucket,red,z,neutral
+Trials,bucket,green,x,neutral
+Trials,bucket,blue,n,neutral
+Trials,bucket,yellow,m,neutral
+Trials,blue,red,z,incongruent
+Trials,red,green,x,incongruent
+Trials,red,blue,n,incongruent
+Trials,red,yellow,m,incongruent
+Trials,green,red,z,incongruent
+Trials,red,green,x,incongruent
+Trials,green,blue,n,incongruent
+Trials,green,yellow,m,incongruent
+Trials,blue,red,z,incongruent
+Trials,blue,green,x,incongruent
+Trials,yellow,blue,n,incongruent
+Trials,blue,yellow,m,incongruent
+Trials,yellow,red,z,incongruent
+Trials,yellow,green,x,incongruent
+Trials,yellow,blue,n,incongruent
+Trials,green,yellow,m,incongruent
+Trials,red,red,z,congruent
+Trials,red,red,z,congruent
+Trials,red,red,z,congruent
+Trials,red,red,z,congruent
+Trials,green,green,x,congruent
+Trials,green,green,x,congruent
+Trials,green,green,x,congruent
+Trials,green,green,x,congruent
+Trials,blue,blue,n,congruent
+Trials,blue,blue,n,congruent
+Trials,blue,blue,n,congruent
+Trials,blue,blue,n,congruent
+Trials,yellow,yellow,m,congruent
+Trials,yellow,yellow,m,congruent
+Trials,yellow,yellow,m,congruent
+Trials,yellow,yellow,m,congruent
