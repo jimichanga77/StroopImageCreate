@@ -41,7 +41,7 @@ with open(fileToOpen) as csv_file:
             print(colour)
             #FOLLOWING CREATES THE IMAGE
             img = np.zeros([width,height,3],dtype=np.uint8) # start creating an image (i.e. white image)
-            img.fill(255) # numpy array!
+            img.fill(255) # numpy array create
             im = Image.fromarray(img) #convert numpy array to image
             I1 = ImageDraw.Draw(im)
             # Custom font style and font size
