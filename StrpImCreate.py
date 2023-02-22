@@ -26,8 +26,9 @@ print(dirname)
 directory = os.path.join(dirname+"/")
 PATH = os.path.join(dirname+"/converted")
 if not os.path.exists(PATH):
-    os.makedirs(PATH)
-os.mkdir(dirname + "/converted")
+    os.mkdir(PATH)
+    print("done")
+# os.mkdir(dirname + "/converted")
 print(directory)
 
 with open(fileToOpen) as csv_file:
@@ -53,10 +54,10 @@ with open(fileToOpen) as csv_file:
             # Custom font style and font size
             myFont = ImageFont.truetype("arial.ttf", 65) # specifies font and font size for words
             # Add Text to an image, the first numbers are the location
-            I1.text((110, 110), word,font=myFont, fill=colour)
+            I1.text((0, 0), word,font=myFont, fill=colour)
             # Display edited image
             # im.show() # do not include this if you have a large list as it will create and show each image
-            fnlist = [word,colour]
+            fnlist = [word.upper(),colour]
             fname="".join(fnlist)
             print(fname)
             im.save(directory+"converted/"+fname+".jpg") # save to a directory (should work)
