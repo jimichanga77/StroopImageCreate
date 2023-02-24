@@ -39,7 +39,7 @@ with open(fileToOpen) as csv_file:
         if line_count == 0:
             print(f'Column names are {", ".join(row)}') # prints the column names for reference
             line_count += 1
-            row.append("image")
+            row.append("Stimulus")
             # The following opens the new trial list file and adds in the header, if a file already exists this will be overwritten
             with open(r'StimCreated/trialsUpdated.csv','w') as f1: # set as 'w' to overwrite any previously existing version of the trialList to start new
                 writer=csv.writer(f1, delimiter=',',lineterminator='\n',)
