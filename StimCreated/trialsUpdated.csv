@@ -1,0 +1,65 @@
+﻿Display,text,letterColor,corrAns,congruency,image
+Practise Trials,ccc,red,z,practice,CCCred.jpg
+Practise Trials,ccc,green,x,practice,CCCgreen.jpg
+Practise Trials,rrrrr,blue,n,practice,RRRRRblue.jpg
+Practise Trials,rrrrr,yellow,m,practice,RRRRRyellow.jpg
+Practise Trials,pppp,red,z,practice,PPPPred.jpg
+Practise Trials,pppp,green,x,practice,PPPPgreen.jpg
+Practise Trials,ssssss,blue,n,practice,SSSSSSblue.jpg
+Practise Trials,ssssss,yellow,m,practice,SSSSSSyellow.jpg
+Practise Trials,ccc,blue,n,practice,CCCblue.jpg
+Practise Trials,ccc,yellow,m,practice,CCCyellow.jpg
+Practise Trials,rrrrr,red,z,practice,RRRRRred.jpg
+Practise Trials,rrrrr,green,x,practice,RRRRRgreen.jpg
+Practise Trials,pppp,blue,n,practice,PPPPblue.jpg
+Practise Trials,pppp,yellow,m,practice,PPPPyellow.jpg
+Practise Trials,ssssss,red,z,practice,SSSSSSred.jpg
+Practise Trials,ssssss,green,x,practice,SSSSSSgreen.jpg
+Trials,pen,red,z,neutral,PENred.jpg
+Trials,pen,green,x,neutral,PENgreen.jpg
+Trials,pen,blue,n,neutral,PENblue.jpg
+Trials,pen,yellow,m,neutral,PENyellow.jpg
+Trials,house,red,z,neutral,HOUSEred.jpg
+Trials,house,green,x,neutral,HOUSEgreen.jpg
+Trials,house,blue,n,neutral,HOUSEblue.jpg
+Trials,house,yellow,m,neutral,HOUSEyellow.jpg
+Trials,shoe,red,z,neutral,SHOEred.jpg
+Trials,shoe,green,x,neutral,SHOEgreen.jpg
+Trials,shoe,blue,n,neutral,SHOEblue.jpg
+Trials,shoe,yellow,m,neutral,SHOEyellow.jpg
+Trials,bucket,red,z,neutral,BUCKETred.jpg
+Trials,bucket,green,x,neutral,BUCKETgreen.jpg
+Trials,bucket,blue,n,neutral,BUCKETblue.jpg
+Trials,bucket,yellow,m,neutral,BUCKETyellow.jpg
+Trials,blue,red,z,incongruent,BLUEred.jpg
+Trials,red,green,x,incongruent,REDgreen.jpg
+Trials,red,blue,n,incongruent,REDblue.jpg
+Trials,red,yellow,m,incongruent,REDyellow.jpg
+Trials,green,red,z,incongruent,GREENred.jpg
+Trials,red,green,x,incongruent,REDgreen.jpg
+Trials,green,blue,n,incongruent,GREENblue.jpg
+Trials,green,yellow,m,incongruent,GREENyellow.jpg
+Trials,blue,red,z,incongruent,BLUEred.jpg
+Trials,blue,green,x,incongruent,BLUEgreen.jpg
+Trials,yellow,blue,n,incongruent,YELLOWblue.jpg
+Trials,blue,yellow,m,incongruent,BLUEyellow.jpg
+Trials,yellow,red,z,incongruent,YELLOWred.jpg
+Trials,yellow,green,x,incongruent,YELLOWgreen.jpg
+Trials,yellow,blue,n,incongruent,YELLOWblue.jpg
+Trials,green,yellow,m,incongruent,GREENyellow.jpg
+Trials,red,red,z,congruent,REDred.jpg
+Trials,red,red,z,congruent,REDred.jpg
+Trials,red,red,z,congruent,REDred.jpg
+Trials,red,red,z,congruent,REDred.jpg
+Trials,green,green,x,congruent,GREENgreen.jpg
+Trials,green,green,x,congruent,GREENgreen.jpg
+Trials,green,green,x,congruent,GREENgreen.jpg
+Trials,green,green,x,congruent,GREENgreen.jpg
+Trials,blue,blue,n,congruent,BLUEblue.jpg
+Trials,blue,blue,n,congruent,BLUEblue.jpg
+Trials,blue,blue,n,congruent,BLUEblue.jpg
+Trials,blue,blue,n,congruent,BLUEblue.jpg
+Trials,yellow,yellow,m,congruent,YELLOWyellow.jpg
+Trials,yellow,yellow,m,congruent,YELLOWyellow.jpg
+Trials,yellow,yellow,m,congruent,YELLOWyellow.jpg
+Trials,yellow,yellow,m,congruent,YELLOWyellow.jpg
