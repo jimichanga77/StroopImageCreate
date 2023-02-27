@@ -23,3 +23,5 @@ The images are currently set to save as .jpg but you can specify .png if preferr
 You can add in im.show() in the loop to show all images once created, but this shoudl be avoided if you have lots of words / images which will be produced (it opens up each instance)
 
 I have tested this and works ok on my computer, but I am only beginning in python coding so use at your own risk. 
+
+The new folder will now include an updated trials list (based on the original used) which will contain a new column with the image file names in. 
