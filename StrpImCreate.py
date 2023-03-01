@@ -74,11 +74,3 @@ with open(fileToOpen) as csv_file:
             # the following saves the image to the directory
             im.save(directory+"StimCreated/"+fname+ext) # save to a directory 
             line_count += 1
-
-    
-
-
-
-
-
-    
