@@ -1,13 +1,7 @@
 # StroopImageCreate
-The code developed in this uses python to create images for a Stroop task (i.e. colour words in different colours) from a stimuli list (in csv form). It was developed because some experiment developemnt software does not allow you to colour words and so images have to be used. 
+The code developed in this uses Python to create images for a Stroop task (i.e. colour words in different colours) from a stimuli list (in csv form). It was developed because some experiment developemnt software does not allow you to colour words and so images have to be used. 
  
-The script asks you to select a csv file with your stimulil lists in and this needs to have a word-related column and a colour-related column. You specify which columns these are in the loop (rembering the first column will be 0, not 1).
-
-e.g.
-
-word = row[1] - here column 2 is used from the csv file
-
-colour = row[2]- here column 3 is used from the csv file
+The script asks you to select a csv file with your stimulil lists in and this needs to have a word-related column and a colour-related column. You specify which columns these are at the start of the script.
 
 The colours I have used so far are Red,  Green, Blue, and Yellow and all work fine, I have not tried other colours yet. 
 
@@ -24,4 +18,4 @@ You can add in im.show() in the loop to show all images once created, but this s
 
 I have tested this and works ok on my computer, but I am only beginning in python coding so use at your own risk. 
 
-The new folder will now include an updated trials list (based on the original used) which will contain a new column with the image file names in. 
+The new folder created for the images will include an updated trials list (based on the original used) which will contain a new column with the image file names in. 
